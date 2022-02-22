@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation by her Maiesties commandement, for bidding the making or forging of any iron ordonance, aboue the quantitie of the piece commonly called the minion, without the Queenes speciall licence and prohibiting also the cariage out of the realme to any forraine parts, of any maner of ordonance of brasse or iron, vpon the paines hereafter conteined in the proclamation.</title>
+            <title>Proclamations. 1592-09-11</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21890</idno>
+            <idno type="STC">STC 8220</idno>
+            <idno type="STC">ESTC S115470</idno>
+            <idno type="EEBO-CITATION">99850689</idno>
+            <idno type="PROQUEST">99850689</idno>
+            <idno type="VID">15913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:79)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation by her Maiesties commandement, for bidding the making or forging of any iron ordonance, aboue the quantitie of the piece commonly called the minion, without the Queenes speciall licence and prohibiting also the cariage out of the realme to any forraine parts, of any maner of ordonance of brasse or iron, vpon the paines hereafter conteined in the proclamation.</title>
+                  <title>Proclamations. 1592-09-11</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ordnance --  Manufacture --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15913:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">¶ A Proclamation by her Maieſties commandement, forbidding the ma<g ref="char:EOLhyphen"/>king or forging of any Iron Ordonance, about the quantitie of the piece com<g ref="char:EOLhyphen"/>monly called the Minion, without the Queenes ſpeciall licence and prohibiting alſo the cariage out of the Realme to any forraine parts, of any maner of Ordo<g ref="char:EOLhyphen"/>nance of braſſe or Iron, vpon the paines hereafter con<g ref="char:EOLhyphen"/>teined in the Proclamation.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie being certainely informed, that notwith<g ref="char:EOLhyphen"/>ſtanding that it is vnlawfull to tranſport any Ordonance of Braſſe on Iron out of the Realme without ſpeciall licence, other then for her Maieſties natu<g ref="char:EOLhyphen"/>rall ſubiects, to be vſed in their ſhipping on the Seas abroad, and yet not to be by them aliened to Strangers: yet diuers euill minded perſons haue preſu<g ref="char:EOLhyphen"/>med for their priuate commoditie to doe the contrary, euen to the furniſhing of the enemie. For the ſtay hereof, her Maieſtie doth now ſtraightly commaund all maner of perſons to forbeare to ſhippe in any be veſſell whatſoeuer, any kinde of Ordonance of Braſſe or Iron, with intent to tranſport the ſame into any forraine parts, or to ſell or deliuer any ſuch Ordonance to any perſon to tranſport the ſame, vpon the paines already limitted by the lawes, and ſuch other puniſhment as is due to them, that doe arme and giue ſtrength to her enemies, and thereby incurre her indignation, which her Maieſtie iuſtly muſt and will extend, for that it is moſt euidently ſeene by dayly experience that by ſuch vnlawfull tranſportations, her Maieſties enemies are eyther directly or indirectly furniſhed for the moſt part with ſuch Ordonance. And for a further remedie a<g ref="char:EOLhyphen"/>gainſt the inconuenience that is moſt generally ſeene to ariſe by making of great quantitie of great Iron Or<g ref="char:EOLhyphen"/>donance, and by ſelling the ſame to ſundry perſons, who haue ſecretly caried the ſame out of the Realme, wher<g ref="char:EOLhyphen"/>by the common enemies haue beene furniſhed therewith not onely in their: ſhipping, but alſo in their Mari<g ref="char:EOLhyphen"/>time Townes and Ports, where otherwiſe without the ſame, they had not bene able nor durſt haue put their ſhips to the Seas: Her Maieſtie doth moſt ſtraightly charge, vpon paine of her indignation and puniſhment due thereto, all maner of perſons that be the owners of any Iron works, Furnaces or Forges, or that doe make or cauſe to be made any Iron, that none of them ſhall make, forge, or cauſe to be made, any maner of Ordonance aboue that maner of piece, which is called a Minion, and that to bee accompted of no greater waight then of fifteene hundred or ſixteene hundred pound weight, Except that her Maieſtie ſhal for any ſpecial conſideration, licence any perſon to make any other kinde of Ordonance aboue the Minion. And furthermore though her Maieſtie thinketh it reaſonable and neceſſarie that Ordonance of Iron be made for the vſe of the ſhippes of her naturall ſubiects, to ſerue for their defence vpon the Seas, yet her Maieſtie meaneth to meſcribe certaine or<g ref="char:EOLhyphen"/>ders, and to appoint certaine perſons of authoritie to ſee the ſame executed, how her ſubiects, ſhall and may pro<g ref="char:EOLhyphen"/>uide for their neceſſarie ſhipping and defence, ſuch Iron Ordonance, as ſhall be neceſſarie for them, to be onely vſed in their ſhipping for their defence, and not to be directly or indirectly or indirectly tranſported out of the Realme, or ſold or deliuered to any Stranger being not her Maieſties naturall ſubiect, vpon ſuch paines as are aboue expres<g ref="char:EOLhyphen"/>ſed.</p>
+            <closer>
+               <dateline>Giuen at Sudeley Castell <date>the xi. day of September, in the xxxiiii. yeere of our raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprintedat London by the Deputies of CHRISTOPHER BARKER, Printer to the Queenes moſt excellent Maieſtie. 1592.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
